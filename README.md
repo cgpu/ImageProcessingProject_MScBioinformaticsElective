@@ -1,2 +1,2 @@
-# ImageProcessingProject_MScBioinformaticsElective
-cellCounter: Image Processing Project for the MSc Bioinformatics Elective course
+# Image Processing Project, MSc Bioinformatics Elective Course
+`cellCounter`: Image Processing Project for the MSc Bioinformatics Elective course
